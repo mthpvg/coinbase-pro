@@ -1,0 +1,23 @@
+{
+  "name": "coinbase-pro",
+  "version": "1.0.0",
+  "description": "## Prerequisites",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthpvg/coinbase-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthpvg/coinbase-pro/issues"
+  },
+  "homepage": "https://github.com/mthpvg/coinbase-pro#readme",
+  "dependencies": {
+    "ws": "^7.4.5"
+  }
+}
