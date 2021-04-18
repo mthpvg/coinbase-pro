@@ -8,7 +8,7 @@
 
 ```bash
 git clone git@github.com:mthpvg/coinbase-pro.git
-cd coinbas-pro
+cd coinbase-pro
 npm install
 node main.js BTC-USD
 ```
